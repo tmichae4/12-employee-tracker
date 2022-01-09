@@ -15,12 +15,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Titoxox97/Employee-Tracker.git"
+        "url": "git+https://github.com/Tmichae4/12-employee-tracker.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Titoxox97/Employee-Tracker/issues"
+        "url": "https://github.com/Tmichae4/12-employee-tracker/issues"
     },
-    "homepage": "https://github.com/Titoxox97/Employee-Tracker#readme"
+    "homepage": "https://github.com/Tmichae4/12-employee-tracker#readme"
 }
